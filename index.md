@@ -3,4 +3,5 @@ Le locataire bénéficie pendant la durée de sa location d'une assistance par t
 
 # ART.7 COMICS
 Un petit comic pour se détendre:
-![comics.png](comic)
+
+![comic](comics.png)
